@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 277bd149f35a36842873e8e9e3bd0db8
+timeCreated: 1464729726
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - touchSprite: {fileID: 21300000, guid: 32550c5e8bcc0cf4e9febb9e16434644, type: 3}
+  executionOrder: -1000
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
